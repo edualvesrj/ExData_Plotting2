@@ -1,4 +1,4 @@
-* Introduction
+# Introduction
 
 Fine particulate matter (PM_{2.5}) is an ambient air pollutant for which there
 is strong evidence that it is harmful to human health. In the United States, the
@@ -14,12 +14,12 @@ PM_{2.5} were emitted from that source over the course of the entire year. The
 data that we use for this assignment are for 1999, 2002, 2005, and
 2008. The data is available [[https://d396qusza40orc.cloudfront.net/exdata%252Fdata%252FNEI_data.zip][here]].
 
-* Goal
+# Goal
 The overall goal is to explore the National Emissions Inventory database and see
 what it say about fine particulate matter pollution in the United states over
 the 10-year period 1999-2008.
 
-* Questions
+# Questions
 
 - Have total emissions from PM_{2.5} decreased in the United States from 1999 to
   2008?
